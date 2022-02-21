@@ -33,7 +33,7 @@ El valor del counter siempre será de tipo `number` y no puede ser mutado direct
 - `handleReset()`
     Se encarga de restaurar el valor del contador al mismo del estado inicial, ya sea el que le haya pasado como argumento cuando inicializó el contador o el valor por defecto.
     
-
+- - -
 ### useFetch
 
 ```
@@ -43,7 +43,7 @@ const results = useFetch();
 Retorna el resultado de la consulta a la url que debe indicar como primer argumento obligatorio.
 
 > **NOTA**: Debe ser adaptado a cada API.
-
+- - -
 ### useForm
 
 ```
